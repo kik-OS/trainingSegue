@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        labelOutlet.layer.cornerRadius = 100
     }
     
     
